@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-overclock",
+  "version": "0.0.1",
+  "description": "Nuxt module to speed up your build time as much as possible",
+  "main": "lib/index.js",
+  "repository": "git@github.com:prashantpalikhe/nuxt-test-attr-cleaner.git",
+  "author": "Prashant Palikhe <prashpal09@gmail.com>",
+  "license": "MIT"
+}
