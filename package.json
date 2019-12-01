@@ -5,5 +5,8 @@
   "main": "lib/index.js",
   "repository": "git@github.com:prashantpalikhe/nuxt-test-attr-cleaner.git",
   "author": "Prashant Palikhe <prashpal09@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fast-sass-loader": "^1.5.0"
+  }
 }
