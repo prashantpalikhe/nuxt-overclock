@@ -12,11 +12,23 @@ Everything to speed up Nuxt's build time.
 
 ## Usage
 
+Install with npm
+
+```
+npm install --save-dev nuxt-overclock
+```
+
+Or, with yarn
+
+```
+yarn add -D nuxt-overclock
+```
+
 Include the module in your `nuxt.config.js`
 
 ```js
 module.exports = {
-  buildModules: [["nuxt-overclock"]]
+  buildModules: ["nuxt-overclock"]
 };
 ```
 
